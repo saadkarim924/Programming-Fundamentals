@@ -1,4 +1,2 @@
 # Programming-Fundamentals
-Programming Fundamentals
-This is an edit 
-Added new changes to the program
+This is an entire collection of all the PF Lab tasks/assignments I have done
